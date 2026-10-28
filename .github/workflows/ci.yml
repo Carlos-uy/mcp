@@ -1,7 +1,7 @@
 # RustFS MCP Server - Docker Build Pipeline
 # Solo genera imagen Docker multi-arch con tag :latest para releases estables
 
-name: Docker Build
+name: build_mcp_rustfs
 
 on:
   push:
